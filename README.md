@@ -35,6 +35,7 @@ nexus-it-support-assistant
 ## Suggested GitHub Repository Description
 
 > A polished FastAPI and Gradio IT support chatbot powered by hybrid TF-IDF retrieval, confidence-aware matching, and a curated troubleshooting knowledge base.
+<img width="943" height="440" alt="image" src="https://github.com/user-attachments/assets/04abd7b5-c406-4a2a-854a-7dc5d088be4a" />
 
 ## About the Project
 
@@ -77,6 +78,7 @@ A custom chat UI includes topic shortcuts, suggested questions, online/offline s
 
 </td>
 <td width="50%">
+<img width="883" height="370" alt="image" src="https://github.com/user-attachments/assets/7fec080d-f7f7-4533-8c92-c1222bd5e07f" />
 
 ### Multiple interfaces
 
