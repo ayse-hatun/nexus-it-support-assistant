@@ -78,7 +78,7 @@ A custom chat UI includes topic shortcuts, suggested questions, online/offline s
 
 </td>
 <td width="50%">
-<img width="883" height="370" alt="image" src="https://github.com/user-attachments/assets/7fec080d-f7f7-4533-8c92-c1222bd5e07f" />
+
 
 ### Multiple interfaces
 
@@ -95,7 +95,7 @@ Use the polished main interface at `/` or open the plain Gradio test console at 
 > ```md
 > ![NEXUS IT Support Assistant](./assets/nexus-preview.png)
 > ```
-
+<img width="883" height="370" alt="image" src="https://github.com/user-attachments/assets/7fec080d-f7f7-4533-8c92-c1222bd5e07f" />
 The interface is optimized around four common support areas:
 
 | Topic | Example questions |
